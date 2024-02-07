@@ -1,0 +1,29 @@
+.lottery-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.lottery-title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.lottery-result {
+    font-size: 18px;
+    color: green;
+    margin-top: 10px;
+}
+
+.lottery-ticket {
+    margin-top: 20px;
+}
+
+.lottery-button {
+    font-size: 16px;
+    padding: 10px;
+    background-color: #23c937;
+    color: rgb(1, 1, 1);
+    cursor: pointer;
+    border: 1px solid black;
+    font-weight: bold;
+}

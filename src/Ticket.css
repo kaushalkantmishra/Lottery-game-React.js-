@@ -1,0 +1,38 @@
+/* Ticket.css */
+
+.Ticket-head {
+    background-color: #957525;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1.5px solid black;
+}
+
+.Ticket-head p {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    color: #000000;
+}
+.hr{
+
+    border: 1px solid black;
+}
+
+.Ticket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.TicketNum {
+    background-color: #000000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
